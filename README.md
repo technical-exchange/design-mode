@@ -7,7 +7,7 @@
 
 **行为型模式：类和对象如何交互，及划分责任和算法。**
 
-![image](https://github.com/technical-exchange/design-mode/blob/master/images/modeType.png)
+![image](https://github.com/technical-exchange/design-mode/blob/master/src/main/resources/static/images/modeType.png)
 以下是具体的设计模式：
 
 - 单例模式：某个类只能有一个实例，提供一个全局的访问点。
