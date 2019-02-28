@@ -10,6 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#eclipse
+.eclipse
+.settings/
+*.classpath
+.project
+
 # Package Files #
 *.jar
 *.war
@@ -28,3 +34,4 @@ nohub.sh
 nohup.out
 
 generated/*
+
