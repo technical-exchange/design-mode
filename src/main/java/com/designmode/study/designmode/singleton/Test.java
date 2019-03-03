@@ -7,12 +7,15 @@ package com.designmode.study.designmode.singleton;
  * @Date: 2019/2/25 23:29
  * @version : V1.0.0
  */
-public class Test {
+public class Test  implements  Runnable{
+    private  static  int  a=0;
+    public  Test(){
+        a++;
+        System.out.println("a"+"********************"+a);
+    }
 
-    public static void main(String[] args) {
-        System.out.println("test");
-        System.out.println("陈领");
-        System.out.println("chenling");
-        System.out.println("chenling");
+    @Override
+    public void run() {
+        new Test();
     }
 }

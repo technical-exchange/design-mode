@@ -1,8 +1,13 @@
-package java.com.designmode.study.designmode.singleton.hungrymodle;
+package com.designmode.study.designmode.singleton.hungrysingleton;
 
 /**
- *单例模式  饿汉模式
- */
+ *@ClassName Singleton
+ *@Description:饿汉模式
+ *@Author TANGHJ
+ *@Date 2019/3/2 16:20
+ *@Version 1.0
+ *
+ **/
 public class Singleton {
 
     private  Singleton(){};
