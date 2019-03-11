@@ -42,4 +42,4 @@
 
 **建造者模式类图关系**
 
-![images]()
+![images](https://github.com/technical-exchange/design-mode/blob/master/src/main/resources/static/images/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.png)
