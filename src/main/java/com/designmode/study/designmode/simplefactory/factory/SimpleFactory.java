@@ -21,6 +21,8 @@ public class SimpleFactory {
             }else if("宾利".equals(car)){
                 Car auto = new BinLiCar();
                 auto.run();
+            }else if("劳斯莱斯".equals(car)){
+
             }else{
                 throw  new RuntimeException("未找到指定车型！");
             }
