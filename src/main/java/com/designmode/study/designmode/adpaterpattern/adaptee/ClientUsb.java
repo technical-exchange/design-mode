@@ -1,5 +1,4 @@
 package com.designmode.study.designmode.adpaterpattern.adaptee;
-
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 

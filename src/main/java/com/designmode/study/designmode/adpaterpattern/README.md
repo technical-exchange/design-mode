@@ -7,13 +7,18 @@
 1、类适配器模式
 
 使用已经存在的一个类，由于该类不符合现有的接口规范，导致无法访问，创建一个适配器去访问该类中的方法;
-
+![image](https://github.com/technical-exchange/design-mode/blob/dev/src/main/resources/static/images/adapterclass.png)
+)
 2、对象适配器模式
 
+![image](https://github.com/technical-exchange/design-mode/blob/dev/src/main/resources/static/images/adapterobject.png)
+)
 
 3、接口适配器模式
 接口适配器使用接口中的一些方法，但是接口方法太多，不想全都实现，通过一个抽象类实现该接口，并不对接口中方法置空，在通过继承重写该类中的方法，抽象类就是适配器模式
 
+![image](https://github.com/technical-exchange/design-mode/blob/dev/src/main/resources/static/images/adapterInterface.png)
+)
 优缺点
 优点：
 1、将目标类和适配器类解耦，通过引入一个适配器类来重用现有的适配者类，无需修改原有的代码
