@@ -1,7 +1,7 @@
 package com.designmode.study.designmode.adpaterpattern.adapter;
 
 import com.designmode.study.designmode.adpaterpattern.adaptee.ClientUsb;
-import com.designmode.study.designmode.adpaterpattern.target.InterfaceA;
+import com.designmode.study.designmode.adpaterpattern.targettest.InterfaceA;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 

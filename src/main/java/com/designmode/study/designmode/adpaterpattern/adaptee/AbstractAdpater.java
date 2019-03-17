@@ -1,6 +1,6 @@
 package com.designmode.study.designmode.adpaterpattern.adaptee;
 
-import com.designmode.study.designmode.adpaterpattern.target.InterfaceTarget;
+import com.designmode.study.designmode.adpaterpattern.targettest.InterfaceTarget;
 
 /**
  * @ClassName AbstractAdpater
