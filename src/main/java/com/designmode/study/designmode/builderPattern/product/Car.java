@@ -20,4 +20,34 @@ public class Car {
 
     private Wheel carWheel;
 
+
+	public Body getCarBody() {
+		return carBody;
+	}
+
+
+	public void setCarBody(Body carBody) {
+		this.carBody = carBody;
+	}
+
+
+	public Engine getCarEngine() {
+		return carEngine;
+	}
+
+
+	public void setCarEngine(Engine carEngine) {
+		this.carEngine = carEngine;
+	}
+
+
+	public Wheel getCarWheel() {
+		return carWheel;
+	}
+
+
+	public void setCarWheel(Wheel carWheel) {
+		this.carWheel = carWheel;
+	}
+
 }

@@ -12,4 +12,13 @@ import lombok.Data;
 @Data
 public class Body {
     private String description;
+
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+    
 }
