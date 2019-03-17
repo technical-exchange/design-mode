@@ -21,3 +21,5 @@
 **使用场景：**部分、整体场景，如树形菜单，文件、文件夹的管理。
 
 **注意事项：**定义时为具体类。
+**结构图**
+![inages](https://github.com/technical-exchange/design-mode/blob/dev/src/main/resources/static/images/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.jpg)
